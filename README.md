@@ -12,4 +12,4 @@ Directions detailed are for a Linux-based OS with a CUDA-capable GPU. Follow the
 8. Run the program
 
 ### Other files for grader
-Inside the .gitignore directory of this repo are generated files from the completion of this project, such as SRGAN generated images, epoch checkpoints, and final models.
+Inside the other-files-for-grader directory of this repo are generated files from the completion of this project, such as SRGAN generated images, epoch checkpoints, and final models.
