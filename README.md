@@ -1,7 +1,7 @@
 # How To Use
 Directions detailed are for a Linux-based OS with a CUDA-capable GPU. Follow the same general steps, but the commands are Linux specific and will need to be adapted for what your OS requires.
 
-### Directions for Linux
+### Directions
 1. Clone the repository and change to this directory.
 2. Create a virtual environment with Python 3.11. **python3.11 -m venv venv**
 3. Activate the venv **source venv/bin/activate**
